@@ -6,4 +6,4 @@ The idea of regime detection is to identify what phase/regime of the market we a
 
 We apply the K-means clustering method. We use the elbow method to identify the optimal number of regimes that should be used.
 
-Visit Jupyter notebook ![here](http://localhost:8888/notebooks/RegimeDetection_Financial_Markets_KMeans.ipynb).
+Visit Jupyter notebook ![here](https://github.com/manuzrpEd/RegimeDetection_FinancialMakets_Kmeans/blob/main/RegimeDetection_Financial_Markets_KMeans.ipynb).
