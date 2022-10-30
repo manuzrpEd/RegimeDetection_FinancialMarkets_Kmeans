@@ -1,4 +1,4 @@
-# RegimeDetection_FinancialMakets_Kmeans
+# Regime Detection for Financial Makets using Kmeans
  
 This repository shows a simple example of how to detect regime changes for financial data. I followed the example here: https://medium.com/@tballz/regime-detection-and-prediction-in-financial-markets-lesson-1-simple-tutorial-42ee5bf18d61
 
